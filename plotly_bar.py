@@ -10,4 +10,4 @@ bar_fig = px.bar(
 )
 
 bar_fig.update_layout({'bargap': 0.5})
-bar_fig.show()
+# bar_fig.show()
